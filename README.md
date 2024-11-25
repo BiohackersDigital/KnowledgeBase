@@ -4,5 +4,5 @@
 
 </div>
 
-[CODE OF CONDUCT & GUIDING PRINCIPLES](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/Code-of-Conduct.md)
+[CODE OF CONDUCT & GUIDING PRINCIPLES](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/CODE_OF_CONDUCT.md)
 
