@@ -8,6 +8,10 @@ Clyne and Kline coin the term "cyborg," theorizing on the enhancement of human c
 
 The article "Playing God in Your Basement" raises ethical concerns regarding 'biohacking' outside traditional research institutions.
 
+## 1997: [TIME CAPSULE](https://en.wikipedia.org/wiki/Eduardo_Kac#1990s)
+
+A [live performance](https://www.youtube.com/watch?v=7y2tbPaYqfQ) in which artist Eduardo Kac implanted a microchip into his ankle.
+
 ## 1998: [PROJECT CYBORG 1.0](https://kevinwarwick.coventry.ac.uk/project-cyborg-1-0)
 
 Dr. Kevin 'Captain Cyborg' Warwick launches Project Cyborg 1.0, embedding an RFID chip in himself, allowing for interaction with computers and electronic devices.
