@@ -14,5 +14,5 @@
 
 [HISTORICAL TIMELINE](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/HISTORICAL%20TIMELINE.md)
 
-  - Significant events in the history of the biohacking & augmentation community. 
+  - Significant events in the history of the biohacking & augmentation. 
 
