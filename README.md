@@ -14,7 +14,7 @@
 
 [GLOSSARY](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/GLOSSARY.MD)
 
-  - Alphabetical list of terms, jargon, acronyms, or concepts accompanied by definitions or explanations.
+  - Alphabetic list of terms, jargon, acronyms, or concepts accompanied by definitions or explanations.
 
 [HISTORIC TIMELINE](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/HISTORIC%20TIMELINE.md)
 
