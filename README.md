@@ -16,7 +16,7 @@
 
   - Alphabetical list of terms, jargon, acronyms, or concepts accompanied by definitions or explanations.
 
-[HISTORIC TIMELINE](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/HISTORICAL%20TIMELINE.md)
+[HISTORIC TIMELINE](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/HISTORIC%20TIMELINE.md)
 
   - Significant events in the history of the biohacking & augmentation. 
 
