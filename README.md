@@ -6,7 +6,7 @@
 
 [CODE OF CONDUCT & GUIDING PRINCIPLES](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/CODE%20OF%20CONDUCT.md)
 
-  - Proposed expecations, values, and ethical standards for behavior and participation in the biohacking & augmentation community.
+  - Proposed expectations, values, and ethical standards for behavior and participation in the biohacking & augmentation community.
 
 [FREQUENTY ASKED QUESTIONS](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/FREQUENTLY%20ASKED%20QUESTIONS.md)
 
