@@ -12,6 +12,10 @@
 
   - Answers to the most common questions about implants, augmentation, biohacking, and the community
 
+[FURTHER READING](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/FURTHER%20READING.MD)
+
+  - Collection of academic journal articles, blog posts, forums, etc.
+
 [GLOSSARY](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/GLOSSARY.MD)
 
   - Alphabetic list of terms, jargon, acronyms, or concepts accompanied by definitions or explanations.
