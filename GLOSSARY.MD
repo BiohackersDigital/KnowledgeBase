@@ -70,7 +70,7 @@ NOUN: A thin biopolymer encapsulated subdermal implant.
 
 NOUN: RFID/NFC multi-tool, encased in a toy-like body, designed for interaction with various digital elements, including radio protocols, access control systems, and hardware components.
 
-### GPS (GLOBAL POSITION SYSTEM)
+## GPS (GLOBAL POSITION SYSTEM)
 
 ABBREVIATION: Satellite-based radio navigation system owned by the United States Government and operated by the United States Space Force. 
 
