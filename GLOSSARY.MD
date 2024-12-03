@@ -114,7 +114,7 @@ NOUN: Subdermal implant with the properties of magnetism, e.g., Dangerous Things
 
 NOUN: The theologic notion of a sign for those who worship the Beast or Antichrist; Revelations 13, 16, and 19.
 
-### MICROCHIP
+## MICROCHIP
 
 NOUN: subdermal implant for means of identification via RFID/NFC.
 
