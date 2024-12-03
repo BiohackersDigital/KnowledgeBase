@@ -174,7 +174,7 @@ Illumination implants incorporate light-emitting components into the body, provi
 
 No, RFID/NFC implants cannot track your location because they lack a power source. These implants are entirely passive and must be within a few centimeters of a specialized reader to function. Consider pet microchips: if your dog goes missing, someone must bring it to a veterinarian to have the microchip scanned. It's not possible to GPS locate a lost animal solely using its microchip alone.
 
-**GPS**: The satellite-based radio navigation system owned by the United States Government and operated by the United States Space Force. Examples include Google Maps, Apple Maps, and Garmin. 
+**GPS**: The satellite-based radio navigation system owned by the United States Government and operated by the United States Space Force.
 
 </details>
 
