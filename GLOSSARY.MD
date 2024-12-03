@@ -56,7 +56,7 @@ ADDJECTIVE: Exhibiting magnetism produced by electrical currents.
 
 ## FDA (FOOD & DRUG ADMINISTRATION)
 
-ABBREVIATION: A division of the United States Department of Health and Human Services that's responsible for health and medical products, drugs, cosmetics, and the safety of food.
+ABBREVIATION: A division of the United States Department of Health and Human Services that's responsible for health and medical products, drugs, cosmetics, and the safety of food. In the United Kingdom, the counterpart is the Medicines and Healthcare Products Regulatory Agency (MHRA).
 
 ## FERROMAGNETIC
 
@@ -152,7 +152,7 @@ NOUN: A philosophical movement that promotes the use of technology to augment hu
 
 ## TSA (TRANSPORTATION SAFETY ADMINISTRATION)
 
-ABBREVIATION: tHE United States government agency responsible for travel safety, especially air travel.
+ABBREVIATION: The United States government agency responsible for travel safety, particularly air travel. The European counterpart is the European Union Aviation Safety Agency (EASA).
 
 ## VERICHIP
 
