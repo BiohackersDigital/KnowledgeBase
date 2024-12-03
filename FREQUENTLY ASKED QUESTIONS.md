@@ -166,9 +166,7 @@ Illumination implants incorporate light-emitting components into the body, provi
 
 </summary>
 
-The short answer is no.
-
-The long answer is no because RFID/NFC with GPS tracking, is 'Active RFID location tracking integrated with a GPS tracking system'. This differs from simple RFID/NFC identification, which is passively powered and remains inactive the majority of the time. Consider pet microchips: If your dog is lost, someone must take it to a veterinarian to have the microchip scanned. There's no way to GPS locate a lost animal solely from it's microchip. 
+No, RFID/NFC implants cannot track your location because they lack a power source. These implants are entirely passive and must be within a few centimeters of a specialized reader to function. Consider pet microchips: if your dog goes missing, someone must bring it to a veterinarian to have the microchip scanned. It's not possible to GPS locate a lost animal solely using its microchip alone.
 
 </details>
 
@@ -198,7 +196,7 @@ Implants are generally considered safe, comparable to other body modifications l
 
 </summary>
 
-The majority of implants lack FDA approval, but that doesn’t mean efforts aren’t underway to obtain it as is the case for the [VivoKey Spark 2](https://web.archive.org/web/20240930205953/https://dangerousthings.com/product/vivokey-spark/).
+Most implants developed by biohackers lack FDA approval. While there's a strong desire to meet or exceed health and safety standards, the high costs often create significant barriers to entry. Notably, in 2004, the FDA approved the [VeriChip RFID device](https://pmc.ncbi.nlm.nih.gov/articles/PMC526112/) for human implantation. Today, many RFID/NFC implants on the market are considered substantially equivalent to the VeriChip.
 
 </details>
 
@@ -240,9 +238,7 @@ Medical imaging is a non-issue except for implanted magnets. Dangerous Things pr
 
 </summary>
 
-The short answer is no.
-
-The long answer is no, as metal detectors, millimeter-wave scanners, and x-ray imaging lack the sensitivity to detect the minute amounts of metal present in implants.
+No, metal detectors are not sensitive enough to detect implants, including most magnets. Similarly, millimeter-wave and backscatter x-ray scanners cannot detect objects located beneath the skin.
 
 </details>
 
