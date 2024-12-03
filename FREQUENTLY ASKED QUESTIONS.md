@@ -18,6 +18,12 @@
 
 **GRINDING**: A subset of biohacking that focuses on more radical and customized implants, augmentations, and body modifications.
 
+**LED**: A semiconductor that emits light as current flows through it. 
+
+**NFC**: The electronic near-field communications (NFC) protocol operating at a frequency of 13.56MHz.
+
+**RFID**: The electronic communications protocol operating at a frequency of 125 kHz.
+
 </details>
 
 <details><summary>
@@ -168,6 +174,8 @@ Illumination implants incorporate light-emitting components into the body, provi
 
 No, RFID/NFC implants cannot track your location because they lack a power source. These implants are entirely passive and must be within a few centimeters of a specialized reader to function. Consider pet microchips: if your dog goes missing, someone must bring it to a veterinarian to have the microchip scanned. It's not possible to GPS locate a lost animal solely using its microchip alone.
 
+**GPS**: The satellite-based radio navigation system owned by the United States Government and operated by the United States Space Force. Examples include Google Maps, Apple Maps, and Garmin. 
+
 </details>
 
 <details><summary>
@@ -197,6 +205,8 @@ Implants are generally considered safe, comparable to other body modifications l
 </summary>
 
 Most implants developed by biohackers lack FDA approval. While there's a strong desire to meet or exceed health and safety standards, the high costs often create significant barriers to entry. Notably, in 2004, the FDA approved the [VeriChip RFID device](https://pmc.ncbi.nlm.nih.gov/articles/PMC526112/) for human implantation. Today, many RFID/NFC implants on the market are considered substantially equivalent to the VeriChip.
+
+**FDA**: A division of the United States Department of Health and Human Services that's responsible for health and medical products, drugs, cosmetics, and the safety of food. In the United Kingdom, the counterpart is the Medicines and Healthcare Products Regulatory Agency (MHRA).
 
 </details>
 
@@ -230,6 +240,8 @@ Medical imaging is a non-issue except for implanted magnets. Dangerous Things pr
 
 [MRI Compatibility Guide](https://web.archive.org/web/20241118223021/https://forum.dangerousthings.com/uploads/default/original/1X/289af3580c98807bdd9de089a27d73f383ce7bce.pdf)
 
+**MRI**: Magnetic Resonance Imaging (MRI) is a non-invasive medical imaging technique that uses strong magnetic fields to produce detailed images of the internal structures of the body. 
+
 </details>
 
 <details><summary>
@@ -239,6 +251,8 @@ Medical imaging is a non-issue except for implanted magnets. Dangerous Things pr
 </summary>
 
 No, metal detectors are not sensitive enough to detect implants, including most magnets. Similarly, millimeter-wave and backscatter x-ray scanners cannot detect objects located beneath the skin.
+
+**TSA**: The United States government agency responsible for travel safety, particularly air travel. The European counterpart is the European Union Aviation Safety Agency (EASA).
 
 </details>
 
