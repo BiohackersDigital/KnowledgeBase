@@ -530,3 +530,13 @@ Although self-installation (DIY) is technically possible, it is strongly discour
 [SYMBIONT LABS](https://discord.gg/xKyzAdmW)
 
 </details>
+
+<details><summary>
+
+### 24. How do I participate in the community?
+
+</summary>
+
+ANSWER
+
+</details>
