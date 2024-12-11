@@ -8,6 +8,10 @@
 
   - Proposed expectations, values, and ethical standards for behavior and participation in the biohacking & augmentation community.
 
+[DIRECTORY](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/DIRECTORY.MD)
+
+-  Comprehensive list of biohacking, augmentation, body-modification, and related groups, events, and forums.
+
 [FREQUENTY ASKED QUESTIONS](https://github.com/BiohackersDigital/KnowledgeBase/blob/main/FREQUENTLY%20ASKED%20QUESTIONS.md)
 
   - Answers to the most common questions about implants, augmentation, biohacking, and the community
