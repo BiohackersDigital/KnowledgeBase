@@ -533,7 +533,7 @@ Although self-installation (DIY) is technically possible, it is strongly discour
 
 <details><summary>
 
-### 24. How do I participate in the community?
+## 24. How do I participate in the community?
 
 </summary>
 
